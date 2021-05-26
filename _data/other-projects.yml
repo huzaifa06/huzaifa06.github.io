@@ -35,7 +35,7 @@
   url: https://github.com/huzaifa06/face-recognizer
   code: https://github.com/huzaifa06/face-recognizer
   description: ace Recognition framework using Haar Cascade classifiers inspired from the CVPR 2001 paper by Viola-Jones. It can handle multiple client verification requests on a server using Multithreading and Synchronisation Policies.
-   used:
+  used:
     - thing: Python
     - thing: SQL
 
