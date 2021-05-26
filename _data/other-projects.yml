@@ -16,13 +16,22 @@
     - thing: Python
     - thing: SQL
 
-- name: Lonely Planet DBMS
+- name: Sign Verification
   url: https://github.com/huzaifa06/sign-verification
   code: https://github.com/huzaifa06/sign-verification
+  description: Face Recognition framework using Haar Cascade classifiers inspired from the CVPR 2001 paper by Viola-Jones. It can handle multiple client verification requests on a server using Multithreading and Synchronisation Policies.
+  used:
+    - thing: Python
+    - thing: SQL
+
+- name: Face Recognizer
+  url: https://github.com/huzaifa06/face-recognizer
+  code: https://github.com/huzaifa06/face-recognizer
   description: Python implementation of Automatic Signature Stability Analysis And Verification Using Local Features published in 2014 at 14th International Conference on Frontiers in Handwriting Recognition.
   used:
     - thing: Python
-
+    
+    
 - name: Metamorphose
   url: https://github.com/huzaifa06/metamorphose
   code: https://github.com/bchiang7/metamorphose
