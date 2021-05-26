@@ -31,13 +31,6 @@
     - thing: C
     - thing: C++
 
-- name: Face Recognizer
-  url: https://github.com/huzaifa06/face-recognizer
-  code: https://github.com/huzaifa06/face-recognizer
-  description: ace Recognition framework using Haar Cascade classifiers inspired from the CVPR 2001 paper by Viola-Jones. It can handle multiple client verification requests on a server using Multithreading and Synchronisation Policies.
-  used:
-    - thing: Python
-    - thing: SQL
 
 - name: Wikisearch
   url: https://github.com/huzaifa06/wikisearch
