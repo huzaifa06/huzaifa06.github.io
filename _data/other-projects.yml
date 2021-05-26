@@ -11,7 +11,7 @@
 - name: MyMed
   url: https://github.com/huzaifa06/mymed
   code: https://github.com/huzaifa06/mymed
-  description:A system that stores data and enables functionality that allows users to buy medicines via an online network. To be precise, an internet-based vendor that sells medicines and allows users an option to buy from their mobile, laptop etc.
+  description: A system that stores data and enables functionality that allows users to buy medicines via an online network. To be precise, an internet-based vendor that sells medicines and allows users an option to buy from their mobile, laptop etc.
   used:
     - thing: Python
     - thing: SQL
@@ -19,7 +19,7 @@
 - name: Lonely Planet DBMS
   url: https://github.com/huzaifa06/sign-verification
   code: https://github.com/huzaifa06/sign-verification
-  description: Python implementation of Automatic Signature Stability Analysis And Verification Using Local Features published in 2014 at 14th International Conference on Frontiers in Handwriting Recognition
+  description: Python implementation of Automatic Signature Stability Analysis And Verification Using Local Features published in 2014 at 14th International Conference on Frontiers in Handwriting Recognition.
   used:
     - thing: Python
 
