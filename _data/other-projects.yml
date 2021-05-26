@@ -35,7 +35,7 @@
 - name: Wikisearch
   url: https://github.com/huzaifa06/wikisearch
   code: https://github.com/huzaifa06/wikisearch
-  description:A search engine indexed on the latest corpus of EnglishWikipedia, with full support for field queries.
+  description: A search engine indexed on the latest corpus of EnglishWikipedia, with full support for field queries.
   img: weather
   used:
     - thing: Python
