@@ -36,16 +36,15 @@
   url: https://github.com/huzaifa06/wikisearch
   code: https://github.com/huzaifa06/wikisearch
   description: A search engine indexed on the latest corpus of EnglishWikipedia, with full support for field queries.
-  img: weather
   used:
     - thing: Python
 
-# - name: Brick Breaker Game
-#   url: https://github.com/huzaifa/brick-breaker-game
-#   description: An arcade, terminal-based game written in Python.
-#   used:
-#   - thing: JavaScript
-#   - thing: Python
+- name: Brick Breaker Game
+  url: https://github.com/huzaifa/brick-breaker-game
+  description: An arcade, terminal-based game written in Python.
+  used:
+  - thing: JavaScript
+  - thing: Python
 
 - name: Personal Website
   url: http://huzaifa06.github.io
